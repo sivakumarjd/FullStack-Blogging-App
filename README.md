@@ -22,3 +22,10 @@ Docker push - image to Docker Hub
 http://13.233.108.216:8080/
 
 Check the application up and running
+
+
+Launch another VM
+Install only any container platform - ex. Docker
+Pull image from docker hub
+Start the services
+Check the application
