@@ -16,6 +16,7 @@ ubuntu@ip-172-31-33-53:~$ docker build -t blog-app:v1 .
 
 ubuntu@ip-172-31-33-53:~$ docker run -p 8080:8080 blog-app:v1
 
+docker image tag blogapp:v1 repodir/blogapp:v1
 Docker push - image to Docker Hub
 
 http://13.233.108.216:8080/
